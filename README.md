@@ -1,4 +1,4 @@
-# NLP-Movie-Review-Classifier-
+# NLP-Movie-Reviews-Classifier
 Sentiment analysis in texts using tokenizations and word embeddings trained using imdb_reviews datasets.
 
 The vecs.tsv file and meta.tsv file can be used to visualise the word embeddings. 
